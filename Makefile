@@ -1,4 +1,4 @@
-PY?=python3
+PY?=C:\Python\Python35\python.exe
 PELICAN?=pelican
 PELICANOPTS=
 
