@@ -50,7 +50,7 @@ when you need it.
 Crested Butte has numerous lodging possibilities including [AirB&B](https://www.airbnb.com/).
 
 My friend Kate has fun and funky rooms at her house just a block away from mine;
-[email her directly](mailto:Kate@KateSeeley.com)).
+[email her directly](mailto:Kate@KateSeeley.com).
 
 My neighbor Dawne, who lives right behind me, also rents a room. You can [email
 her](mailto:dbelloise@gmail.com).
