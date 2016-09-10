@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Developer Retreat</title><link href="http://developer-retreat.com/" rel="alternate"></link><link href="http://developer-retreat.com/feeds/the-elm-retreat.atom.xml" rel="self"></link><id>http://developer-retreat.com/</id><updated>2016-09-08T00:00:00-06:00</updated><entry><title>The Elm Retreat, October 6-9</title><link href="http://developer-retreat.com/the-elm-retreat-october-6-9.html" rel="alternate"></link><published>2016-09-08T00:00:00-06:00</published><author><name>Bruce Eckel</name></author><id>tag:developer-retreat.com,2016-09-08:the-elm-retreat-october-6-9.html</id><summary type="html">&lt;p&gt;During the previous developer retreat (we worked on my Java 8 book), we decided
 we wanted to do another one where we try to plow through and figure out enough
 of the &lt;a href="http://elm-lang.org/"&gt;Elm language&lt;/a&gt; to start building the UI for the
-&lt;a href="https://www.youtube.com/watch?v=aD3S0wlbek0"&gt;Open-Spaces board&lt;/a&gt; (a project so
-that open-spaces conferences can have their boards in the cloud, rather than
-forcing a single physical location). We use Open Spaces during the &lt;a href="http://wintertechforum.com"&gt;Winter Tech
-Forum&lt;/a&gt; and similar events during the Summer.&lt;/p&gt;
+&lt;em&gt;Open-Spaces Board Project&lt;/em&gt; (so &lt;a href="https://www.youtube.com/watch?v=aD3S0wlbek0"&gt;Open-Spaces
+Conferences&lt;/a&gt; can have their boards
+in the cloud, rather than forcing a single physical location). We use Open
+Spaces during the &lt;a href="http://wintertechforum.com"&gt;Winter Tech Forum&lt;/a&gt; and similar
+events during the Summer.&lt;/p&gt;
 &lt;p&gt;This will be an open-source project hosted on Github.&lt;/p&gt;
 &lt;p&gt;The Elm retreat will be held October 6-9 in &lt;a href="http://www.visitcrestedbutte.com/"&gt;Crested Butte,
 Colorado&lt;/a&gt;.&lt;/p&gt;
